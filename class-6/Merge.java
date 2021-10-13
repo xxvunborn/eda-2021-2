@@ -34,7 +34,6 @@ public class Merge {
         a[k] = aux[j++];
       else
         a[k] = aux[i++];
-
     }
   }
 
